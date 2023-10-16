@@ -1,2 +1,2 @@
 # VariousWebsiteScraping
-compilation of various website scarping rpoject other than social media
+compilation of various website scarping project other than social media
